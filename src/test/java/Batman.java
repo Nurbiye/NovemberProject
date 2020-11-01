@@ -4,6 +4,7 @@ public class Batman {
         //yes, he will catch him
 
         System.out.println("---------------------");
+        System.out.println("---------------------------");
 
     }
 }
